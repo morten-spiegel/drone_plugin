@@ -1,0 +1,4 @@
+notify:
+  my-plugin:
+    image: -/my-plugin
+    url: http://mockbin.org/
